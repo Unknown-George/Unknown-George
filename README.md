@@ -1,23 +1,17 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="George Paraskevopoulos — Native tools. Thoughtful interfaces. macOS utilities and music experiences." />
+  <img src="assets/cat-banner.png" width="100%" alt="George Paraskevopoulos — Software developer, with a black cat illustration." />
 </p>
 
-I'm **George**, an independent developer building native macOS tools and music experiences. My projects range from system monitoring and defensive security utilities to a music player with a little Y2K personality.
+# George Paraskevopoulos
 
-### Selected work
+Independent software developer focused on macOS applications and desktop interfaces. My work includes system monitoring, defensive security utilities, and music applications.
 
-| Project | What I'm building | Built with |
+### Selected projects
+
+| Project | Overview | Technology |
 | :--- | :--- | :--- |
-| **[Sentinel](https://github.com/Unknown-George/Sentinel)** | An Apple Silicon system monitor with live metrics, local history, and a quiet dark interface. | C++20 · Qt 6 |
-| **[Harborlight](https://github.com/Unknown-George/harborlight-security-toolkit)** | A local-first macOS workbench for defensive security checks and everyday utilities. | Swift · SwiftUI |
-| **[NewJams](https://github.com/Unknown-George/NewJam)** | A music and media player with playlists, a personal library, and a Y2K-inspired interface. | React · Electron · JavaScript |
+| **[Sentinel](https://github.com/Unknown-George/Sentinel)** | Native Apple Silicon system monitor with live metrics and local activity history. | C++20 · Qt 6 |
+| **[Harborlight](https://github.com/Unknown-George/harborlight-security-toolkit)** | Local-first macOS workbench for defensive security checks, hashing, password generation, and network calculations. | Swift · SwiftUI |
+| **[NewJams](https://github.com/Unknown-George/NewJam)** | Music and media application with playlists, a personal library, and desktop support. | React · Electron · JavaScript |
 
-### At the intersection of
-
-**Native software** &nbsp; / &nbsp; **Clear interfaces** &nbsp; / &nbsp; **Useful little details**
-
-I like giving practical tools a distinct visual identity — from Sentinel's black cat to NewJams' playful music library.
-
----
-
-[Explore my repositories](https://github.com/Unknown-George?tab=repositories) &nbsp; · &nbsp; [Try NewJams](https://newjams.pages.dev/)
+[View repositories](https://github.com/Unknown-George?tab=repositories) · [Open NewJams](https://newjams.pages.dev/)
